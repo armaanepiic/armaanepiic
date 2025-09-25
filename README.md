@@ -69,22 +69,22 @@ I am a passionate **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰�
 ### 🍕 **Food Delivery Website**
 - Built a modern, responsive website using **HTML5** and **Tailwind CSS**
 - Features clean layout and smooth navigation design
-- **[Live Demo](https://github.com/armaanepiic)** | **[GitHub](https://github.com/armaanepiic)**
+- **[Live Demo]([https://github.com/armaanepiic](https://armaanepiic.github.io/Food_Delivery/))** | **[GitHub](https://github.com/armaanepiic)**
 
 ### ✨ **Modern Landing Page**
 - Developed animated landing page with **Tailwind CSS** and **JavaScript**
 - Focused on transitions, responsiveness, and modern UI aesthetics
-- **[Live Demo](https://github.com/armaanepiic)** | **[GitHub](https://github.com/armaanepiic)**
+- **[Live Demo]([https://github.com/armaanepiic](https://armaanepiic.github.io/Modern_Landing_Page/))** | **[GitHub](https://github.com/armaanepiic)**
 
 ### 📝 **Todo List App**
 - JavaScript-based application using DOM manipulation and localStorage
 - Includes add, delete, and status toggle features
-- **[Live Demo](https://github.com/armaanepiic)** | **[GitHub](https://github.com/armaanepiic)**
+- **[Live Demo]([https://github.com/armaanepiic](https://armaanepiic.github.io/TodoList/))** | **[GitHub](https://github.com/armaanepiic)**
 
 ### 📋 **Clipboard Website**
 - One-page responsive website using **Tailwind CSS**
 - Demonstrates minimalist design and consistent styling
-- **[Live Demo](https://github.com/armaanepiic)** | **[GitHub](https://github.com/armaanepiic)**
+- **[Live Demo]([https://github.com/armaanepiic](https://armaanepiic.github.io/Clipboard_Website-Tailwind-/))** | **[GitHub](https://github.com/armaanepiic)**
 
 ---
 
