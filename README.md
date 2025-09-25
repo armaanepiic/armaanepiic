@@ -114,9 +114,9 @@ I am a passionate **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=armaanepiic&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaanepiic&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=en" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
